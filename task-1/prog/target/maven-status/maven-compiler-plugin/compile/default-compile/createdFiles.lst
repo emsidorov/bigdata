@@ -1,0 +1,7 @@
+candle$CandlePartitioner.class
+DealValue.class
+candle.class
+candle$CandleGroupingComparator.class
+DealKey.class
+candle$CandleMapper.class
+candle$CandleReducer.class
